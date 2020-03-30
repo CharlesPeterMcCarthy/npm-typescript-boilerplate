@@ -1,0 +1,28 @@
+{
+  "name": "@project-300/common-types",
+  "version": "4.1.0",
+  "description": "Common types & interfaces",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-300/npm-common-types.git"
+  },
+  "author": "Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-300/npm-common-types/issues"
+  },
+  "homepage": "https://github.com/project-300/npm-common-types#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": { }
+}
